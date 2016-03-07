@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayingAnimationBar">
+        <attr name="pab_fps" format="integer|reference" />
+        <attr name="pab_barCount" format="integer|reference" />
+        <attr name="pab_duration" format="integer|reference" />
+        <attr name="pab_margin" format="dimension|reference" />
+        <attr name="pab_topColor" format="color|reference" />
+        <attr name="pab_bottomColor" format="color|reference" />
+        <attr name="pab_alphaInflexionEnable" format="boolean|reference" />
+    </declare-styleable>
+</resources>
